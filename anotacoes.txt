@@ -1,2 +1,7 @@
 Lucas Bandeira Miranda
+<<<<<<< HEAD
 Engenharia de software 2
+=======
+
+Aula bem didática e com bons ensinamentos sobre git. Aprendi coisas que eu já não sabia sobre git e evolui mais meu conhecimento
+>>>>>>> feedback
